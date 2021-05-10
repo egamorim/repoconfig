@@ -5,4 +5,4 @@ spring:
   datasource:
     url: jdbc:mariadb://localhost:3306/vehicle-management
     username: root
-    password: mypass_1
+    password: mypass
