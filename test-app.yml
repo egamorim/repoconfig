@@ -6,3 +6,7 @@ spring:
     url: jdbc:mariadb://localhost:3306/vehicle-management
     username: root
     password: mypass
+
+default:
+  page:
+    size: 3
